@@ -1,0 +1,13 @@
+body {
+background-image: url("imgassets/redstone_lamp_off.png");
+color: yellow;
+}
+h1{
+font-family: 'Nova Flat', cursive;
+}
+#main{
+font-family: 'Montserrat', sans-serif;
+}
+hr{
+	border: 5px solid black;
+}
